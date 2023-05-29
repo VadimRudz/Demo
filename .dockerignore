@@ -1,0 +1,9 @@
+README.md
+makefile
+.gitlab
+.git
+.gitignore
+.vscode
+.dockerignore
+.gitlab-ci
+.env.secure
